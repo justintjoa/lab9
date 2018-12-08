@@ -1,0 +1,28 @@
+Task 1
+
+1) See display.pdf
+
+2) You need 2 flip flops, as it grants 2^n states which is 4. 
+
+3) See display.jpg
+
+4) B0* = !B0
+B1* = !B0.B1 + B0.!B1
+
+5) B0* = !B0
+
+Task 2
+
+1) See sequence1.pdf and sequence2.pdf
+
+2) You need 3 flip flops, as we have 4 states and 1 intermediate state where u is changed. 2^3 is 8 which grants us enough states.
+
+3) See sequence1.pdf
+ 
+
+4) U = B2.!B1.!B0
+See sequence1.pdf for table
+
+5) B0* = !B2.!B1.!B0.!I + !B2.B1.!B0.I
+See sequence1.pdf for table
+6) See sequence2.pdf
